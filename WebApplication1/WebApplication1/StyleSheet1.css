@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:ghostwhite;
+    background-color:wheat;
 }
 
 #sounds{
@@ -24,8 +24,17 @@
 }
 
 #1up{
-    background-color:aquamarine;
+    background-color:darkorchid;
     border: 3px solid #00ff21;
+}
+
+#1up:hover{
+    background-color:aliceblue;
+    cursor: pointer;
+}
+
+#1up:active{
+    background-color:darkorchid;
 }
 
 #fireball{
@@ -33,12 +42,44 @@
     border: 3px solid #b6ff00;
 }
 
+#fireball:hover{
+    background-color:aliceblue;
+    cursor: pointer;
+}
+
+#fireball:active{
+    background-color:blue;
+}
+
+
 #jump{
     background-color:darkgreen;
     border: 3px solid #ff0000;
 }
 
+#jump:hover{
+    background-color:aliceblue;
+    cursor: pointer;
+}
+
+#jump:active{
+    background-color:darkgreen;
+}
+
+
 #stomp{
     background-color:chartreuse;
     border: 3px solid #000000;
 }
+
+#stomp:hover{
+    background-color:aliceblue;
+    cursor:pointer;
+}
+
+#stomp:active{
+    background-color:chartreuse;
+}
+
+
+
