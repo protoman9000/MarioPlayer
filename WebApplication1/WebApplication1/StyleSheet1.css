@@ -1,0 +1,44 @@
+﻿body {
+    background-color:ghostwhite;
+}
+
+#sounds{
+    height: 200px;
+    width: 500px;
+    padding-right: 10px;
+    padding-top: 50px;
+    margin: auto;
+    position: absolute;
+    top: 0; 
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+
+#1up{
+    background-color:aquamarine;
+    border: 3px solid #00ff21;
+}
+
+#fireball{
+    background-color:blue;
+    border: 3px solid #b6ff00;
+}
+
+#jump{
+    background-color:darkgreen;
+    border: 3px solid #ff0000;
+}
+
+#stomp{
+    background-color:chartreuse;
+    border: 3px solid #000000;
+}
